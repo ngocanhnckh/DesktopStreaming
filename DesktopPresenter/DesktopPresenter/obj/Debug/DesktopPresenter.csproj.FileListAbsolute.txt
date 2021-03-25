@@ -1,0 +1,25 @@
+c:\users\administrator\documents\visual studio 2015\Projects\Presenter Tool\Presenter Tool\bin\Debug\DesktopPresenter.exe.config
+c:\users\administrator\documents\visual studio 2015\Projects\Presenter Tool\Presenter Tool\bin\Debug\DesktopPresenter.exe
+c:\users\administrator\documents\visual studio 2015\Projects\Presenter Tool\Presenter Tool\bin\Debug\DesktopPresenter.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\Presenter Tool\Presenter Tool\obj\Debug\DesktopPresenter.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2015\Projects\Presenter Tool\Presenter Tool\obj\Debug\DesktopPresenter.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2015\Projects\Presenter Tool\Presenter Tool\obj\Debug\DesktopPresenter.csproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2015\Projects\Presenter Tool\Presenter Tool\obj\Debug\DesktopPresenter.exe
+c:\users\administrator\documents\visual studio 2015\Projects\Presenter Tool\Presenter Tool\obj\Debug\DesktopPresenter.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\DesktopPresenter\DesktopPresenter\bin\Debug\DesktopPresenter.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\DesktopPresenter\DesktopPresenter\obj\Debug\DesktopPresenter.exe
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\DesktopPresenter\DesktopPresenter\obj\Debug\DesktopPresenter.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\DesktopPresenter\DesktopPresenter\bin\Debug\DesktopPresenter.exe
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\DesktopPresenter\DesktopPresenter\bin\Debug\DesktopPresenter.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\DesktopPresenter\DesktopPresenter\obj\Debug\DesktopPresenter.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\DesktopPresenter\DesktopPresenter\obj\Debug\DesktopPresenter.Properties.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\DesktopPresenter\DesktopPresenter\obj\Debug\DesktopPresenter.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\desktopsharing\DesktopPresenter\DesktopPresenter\bin\Debug\DesktopPresenter.exe.config
+C:\Users\Administrator\Documents\desktopsharing\DesktopPresenter\DesktopPresenter\bin\Debug\DesktopPresenter.exe
+C:\Users\Administrator\Documents\desktopsharing\DesktopPresenter\DesktopPresenter\bin\Debug\DesktopPresenter.pdb
+C:\Users\Administrator\Documents\desktopsharing\DesktopPresenter\DesktopPresenter\obj\Debug\DesktopPresenter.csprojAssemblyReference.cache
+C:\Users\Administrator\Documents\desktopsharing\DesktopPresenter\DesktopPresenter\obj\Debug\DesktopPresenter.Properties.Resources.resources
+C:\Users\Administrator\Documents\desktopsharing\DesktopPresenter\DesktopPresenter\obj\Debug\DesktopPresenter.csproj.GenerateResource.cache
+C:\Users\Administrator\Documents\desktopsharing\DesktopPresenter\DesktopPresenter\obj\Debug\DesktopPresenter.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\desktopsharing\DesktopPresenter\DesktopPresenter\obj\Debug\DesktopPresenter.exe
+C:\Users\Administrator\Documents\desktopsharing\DesktopPresenter\DesktopPresenter\obj\Debug\DesktopPresenter.pdb

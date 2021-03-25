@@ -1,0 +1,9 @@
+c:\users\administrator\documents\visual studio 2015\Projects\Presenter Tool\Presenter Tool\bin\Debug\Presenter Tool.exe.config
+c:\users\administrator\documents\visual studio 2015\Projects\Presenter Tool\Presenter Tool\bin\Debug\Presenter Tool.exe
+c:\users\administrator\documents\visual studio 2015\Projects\Presenter Tool\Presenter Tool\bin\Debug\Presenter Tool.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\Presenter Tool\Presenter Tool\obj\Debug\Presenter Tool.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2015\Projects\Presenter Tool\Presenter Tool\obj\Debug\Presenter_Tool.DesktopPublisher.resources
+c:\users\administrator\documents\visual studio 2015\Projects\Presenter Tool\Presenter Tool\obj\Debug\Presenter_Tool.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2015\Projects\Presenter Tool\Presenter Tool\obj\Debug\Presenter Tool.csproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2015\Projects\Presenter Tool\Presenter Tool\obj\Debug\Presenter Tool.exe
+c:\users\administrator\documents\visual studio 2015\Projects\Presenter Tool\Presenter Tool\obj\Debug\Presenter Tool.pdb

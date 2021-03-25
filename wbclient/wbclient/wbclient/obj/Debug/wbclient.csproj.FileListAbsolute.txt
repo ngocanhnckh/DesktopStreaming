@@ -1,0 +1,559 @@
+C:\Users\HassanAbbas\Documents\Visual Studio 2012\Projects\wbclient\wbclient\Bin\Debug\wbclient.dll
+C:\Users\HassanAbbas\Documents\Visual Studio 2012\Projects\wbclient\wbclient\Bin\Debug\wbclient.pdb
+C:\Users\HassanAbbas\Documents\Visual Studio 2012\Projects\wbclient\wbclient\Bin\Debug\AppManifest.xaml
+C:\Users\HassanAbbas\Documents\Visual Studio 2012\Projects\wbclient\wbclient\Bin\Debug\wbclient.xap
+C:\Users\HassanAbbas\Documents\Visual Studio 2012\Projects\wbclient\wbclient\Bin\Debug\wbclientTestPage.html
+C:\Users\HassanAbbas\Documents\Visual Studio 2012\Projects\wbclient\wbclient\Bin\Debug\System.ComponentModel.DataAnnotations.dll
+C:\Users\HassanAbbas\Documents\Visual Studio 2012\Projects\wbclient\wbclient\Bin\Debug\System.Windows.Controls.Data.Input.dll
+C:\Users\HassanAbbas\Documents\Visual Studio 2012\Projects\wbclient\wbclient\Bin\Debug\System.Windows.Controls.dll
+C:\Users\HassanAbbas\Documents\Visual Studio 2012\Projects\wbclient\wbclient\Bin\Debug\System.ComponentModel.DataAnnotations.xml
+C:\Users\HassanAbbas\Documents\Visual Studio 2012\Projects\wbclient\wbclient\Bin\Debug\System.Windows.Controls.xml
+C:\Users\HassanAbbas\Documents\Visual Studio 2012\Projects\wbclient\wbclient\Bin\Debug\System.Windows.Controls.Data.Input.xml
+C:\Users\HassanAbbas\Documents\Visual Studio 2012\Projects\wbclient\wbclient\Bin\Debug\ar\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\HassanAbbas\Documents\Visual Studio 2012\Projects\wbclient\wbclient\Bin\Debug\bg\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\HassanAbbas\Documents\Visual Studio 2012\Projects\wbclient\wbclient\Bin\Debug\ca\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\HassanAbbas\Documents\Visual Studio 2012\Projects\wbclient\wbclient\Bin\Debug\cs\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\HassanAbbas\Documents\Visual Studio 2012\Projects\wbclient\wbclient\Bin\Debug\da\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\HassanAbbas\Documents\Visual Studio 2012\Projects\wbclient\wbclient\Bin\Debug\de\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\HassanAbbas\Documents\Visual Studio 2012\Projects\wbclient\wbclient\Bin\Debug\el\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\HassanAbbas\Documents\Visual Studio 2012\Projects\wbclient\wbclient\Bin\Debug\es\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\HassanAbbas\Documents\Visual Studio 2012\Projects\wbclient\wbclient\Bin\Debug\et\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\HassanAbbas\Documents\Visual Studio 2012\Projects\wbclient\wbclient\Bin\Debug\eu\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\HassanAbbas\Documents\Visual Studio 2012\Projects\wbclient\wbclient\Bin\Debug\fi\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\HassanAbbas\Documents\Visual Studio 2012\Projects\wbclient\wbclient\Bin\Debug\fr\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\HassanAbbas\Documents\Visual Studio 2012\Projects\wbclient\wbclient\Bin\Debug\he\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\HassanAbbas\Documents\Visual Studio 2012\Projects\wbclient\wbclient\Bin\Debug\hr\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\HassanAbbas\Documents\Visual Studio 2012\Projects\wbclient\wbclient\Bin\Debug\hu\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\HassanAbbas\Documents\Visual Studio 2012\Projects\wbclient\wbclient\Bin\Debug\id\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\HassanAbbas\Documents\Visual Studio 2012\Projects\wbclient\wbclient\Bin\Debug\it\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\HassanAbbas\Documents\Visual Studio 2012\Projects\wbclient\wbclient\Bin\Debug\ja\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\HassanAbbas\Documents\Visual Studio 2012\Projects\wbclient\wbclient\Bin\Debug\ko\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\HassanAbbas\Documents\Visual Studio 2012\Projects\wbclient\wbclient\Bin\Debug\lt\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\HassanAbbas\Documents\Visual Studio 2012\Projects\wbclient\wbclient\Bin\Debug\lv\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\HassanAbbas\Documents\Visual Studio 2012\Projects\wbclient\wbclient\Bin\Debug\ms\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\HassanAbbas\Documents\Visual Studio 2012\Projects\wbclient\wbclient\Bin\Debug\nl\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\HassanAbbas\Documents\Visual Studio 2012\Projects\wbclient\wbclient\Bin\Debug\no\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\HassanAbbas\Documents\Visual Studio 2012\Projects\wbclient\wbclient\Bin\Debug\pl\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\HassanAbbas\Documents\Visual Studio 2012\Projects\wbclient\wbclient\Bin\Debug\pt\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\HassanAbbas\Documents\Visual Studio 2012\Projects\wbclient\wbclient\Bin\Debug\pt-BR\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\HassanAbbas\Documents\Visual Studio 2012\Projects\wbclient\wbclient\Bin\Debug\ro\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\HassanAbbas\Documents\Visual Studio 2012\Projects\wbclient\wbclient\Bin\Debug\ru\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\HassanAbbas\Documents\Visual Studio 2012\Projects\wbclient\wbclient\Bin\Debug\sk\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\HassanAbbas\Documents\Visual Studio 2012\Projects\wbclient\wbclient\Bin\Debug\sl\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\HassanAbbas\Documents\Visual Studio 2012\Projects\wbclient\wbclient\Bin\Debug\sr-Cyrl-CS\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\HassanAbbas\Documents\Visual Studio 2012\Projects\wbclient\wbclient\Bin\Debug\sr-Latn-CS\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\HassanAbbas\Documents\Visual Studio 2012\Projects\wbclient\wbclient\Bin\Debug\sv\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\HassanAbbas\Documents\Visual Studio 2012\Projects\wbclient\wbclient\Bin\Debug\th\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\HassanAbbas\Documents\Visual Studio 2012\Projects\wbclient\wbclient\Bin\Debug\tr\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\HassanAbbas\Documents\Visual Studio 2012\Projects\wbclient\wbclient\Bin\Debug\uk\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\HassanAbbas\Documents\Visual Studio 2012\Projects\wbclient\wbclient\Bin\Debug\vi\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\HassanAbbas\Documents\Visual Studio 2012\Projects\wbclient\wbclient\Bin\Debug\zh-Hans\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\HassanAbbas\Documents\Visual Studio 2012\Projects\wbclient\wbclient\Bin\Debug\zh-Hant\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\HassanAbbas\Documents\Visual Studio 2012\Projects\wbclient\wbclient\Bin\Debug\ar\System.Windows.Controls.resources.dll
+C:\Users\HassanAbbas\Documents\Visual Studio 2012\Projects\wbclient\wbclient\Bin\Debug\bg\System.Windows.Controls.resources.dll
+C:\Users\HassanAbbas\Documents\Visual Studio 2012\Projects\wbclient\wbclient\Bin\Debug\ca\System.Windows.Controls.resources.dll
+C:\Users\HassanAbbas\Documents\Visual Studio 2012\Projects\wbclient\wbclient\Bin\Debug\cs\System.Windows.Controls.resources.dll
+C:\Users\HassanAbbas\Documents\Visual Studio 2012\Projects\wbclient\wbclient\Bin\Debug\da\System.Windows.Controls.resources.dll
+C:\Users\HassanAbbas\Documents\Visual Studio 2012\Projects\wbclient\wbclient\Bin\Debug\de\System.Windows.Controls.resources.dll
+C:\Users\HassanAbbas\Documents\Visual Studio 2012\Projects\wbclient\wbclient\Bin\Debug\el\System.Windows.Controls.resources.dll
+C:\Users\HassanAbbas\Documents\Visual Studio 2012\Projects\wbclient\wbclient\Bin\Debug\es\System.Windows.Controls.resources.dll
+C:\Users\HassanAbbas\Documents\Visual Studio 2012\Projects\wbclient\wbclient\Bin\Debug\et\System.Windows.Controls.resources.dll
+C:\Users\HassanAbbas\Documents\Visual Studio 2012\Projects\wbclient\wbclient\Bin\Debug\eu\System.Windows.Controls.resources.dll
+C:\Users\HassanAbbas\Documents\Visual Studio 2012\Projects\wbclient\wbclient\Bin\Debug\fi\System.Windows.Controls.resources.dll
+C:\Users\HassanAbbas\Documents\Visual Studio 2012\Projects\wbclient\wbclient\Bin\Debug\fr\System.Windows.Controls.resources.dll
+C:\Users\HassanAbbas\Documents\Visual Studio 2012\Projects\wbclient\wbclient\Bin\Debug\he\System.Windows.Controls.resources.dll
+C:\Users\HassanAbbas\Documents\Visual Studio 2012\Projects\wbclient\wbclient\Bin\Debug\hr\System.Windows.Controls.resources.dll
+C:\Users\HassanAbbas\Documents\Visual Studio 2012\Projects\wbclient\wbclient\Bin\Debug\hu\System.Windows.Controls.resources.dll
+C:\Users\HassanAbbas\Documents\Visual Studio 2012\Projects\wbclient\wbclient\Bin\Debug\id\System.Windows.Controls.resources.dll
+C:\Users\HassanAbbas\Documents\Visual Studio 2012\Projects\wbclient\wbclient\Bin\Debug\it\System.Windows.Controls.resources.dll
+C:\Users\HassanAbbas\Documents\Visual Studio 2012\Projects\wbclient\wbclient\Bin\Debug\ja\System.Windows.Controls.resources.dll
+C:\Users\HassanAbbas\Documents\Visual Studio 2012\Projects\wbclient\wbclient\Bin\Debug\ko\System.Windows.Controls.resources.dll
+C:\Users\HassanAbbas\Documents\Visual Studio 2012\Projects\wbclient\wbclient\Bin\Debug\lt\System.Windows.Controls.resources.dll
+C:\Users\HassanAbbas\Documents\Visual Studio 2012\Projects\wbclient\wbclient\Bin\Debug\lv\System.Windows.Controls.resources.dll
+C:\Users\HassanAbbas\Documents\Visual Studio 2012\Projects\wbclient\wbclient\Bin\Debug\ms\System.Windows.Controls.resources.dll
+C:\Users\HassanAbbas\Documents\Visual Studio 2012\Projects\wbclient\wbclient\Bin\Debug\nl\System.Windows.Controls.resources.dll
+C:\Users\HassanAbbas\Documents\Visual Studio 2012\Projects\wbclient\wbclient\Bin\Debug\no\System.Windows.Controls.resources.dll
+C:\Users\HassanAbbas\Documents\Visual Studio 2012\Projects\wbclient\wbclient\Bin\Debug\pl\System.Windows.Controls.resources.dll
+C:\Users\HassanAbbas\Documents\Visual Studio 2012\Projects\wbclient\wbclient\Bin\Debug\pt\System.Windows.Controls.resources.dll
+C:\Users\HassanAbbas\Documents\Visual Studio 2012\Projects\wbclient\wbclient\Bin\Debug\pt-BR\System.Windows.Controls.resources.dll
+C:\Users\HassanAbbas\Documents\Visual Studio 2012\Projects\wbclient\wbclient\Bin\Debug\ro\System.Windows.Controls.resources.dll
+C:\Users\HassanAbbas\Documents\Visual Studio 2012\Projects\wbclient\wbclient\Bin\Debug\ru\System.Windows.Controls.resources.dll
+C:\Users\HassanAbbas\Documents\Visual Studio 2012\Projects\wbclient\wbclient\Bin\Debug\sk\System.Windows.Controls.resources.dll
+C:\Users\HassanAbbas\Documents\Visual Studio 2012\Projects\wbclient\wbclient\Bin\Debug\sl\System.Windows.Controls.resources.dll
+C:\Users\HassanAbbas\Documents\Visual Studio 2012\Projects\wbclient\wbclient\Bin\Debug\sr-Cyrl-CS\System.Windows.Controls.resources.dll
+C:\Users\HassanAbbas\Documents\Visual Studio 2012\Projects\wbclient\wbclient\Bin\Debug\sr-Latn-CS\System.Windows.Controls.resources.dll
+C:\Users\HassanAbbas\Documents\Visual Studio 2012\Projects\wbclient\wbclient\Bin\Debug\sv\System.Windows.Controls.resources.dll
+C:\Users\HassanAbbas\Documents\Visual Studio 2012\Projects\wbclient\wbclient\Bin\Debug\th\System.Windows.Controls.resources.dll
+C:\Users\HassanAbbas\Documents\Visual Studio 2012\Projects\wbclient\wbclient\Bin\Debug\tr\System.Windows.Controls.resources.dll
+C:\Users\HassanAbbas\Documents\Visual Studio 2012\Projects\wbclient\wbclient\Bin\Debug\uk\System.Windows.Controls.resources.dll
+C:\Users\HassanAbbas\Documents\Visual Studio 2012\Projects\wbclient\wbclient\Bin\Debug\vi\System.Windows.Controls.resources.dll
+C:\Users\HassanAbbas\Documents\Visual Studio 2012\Projects\wbclient\wbclient\Bin\Debug\zh-Hans\System.Windows.Controls.resources.dll
+C:\Users\HassanAbbas\Documents\Visual Studio 2012\Projects\wbclient\wbclient\Bin\Debug\zh-Hant\System.Windows.Controls.resources.dll
+C:\Users\HassanAbbas\Documents\Visual Studio 2012\Projects\wbclient\wbclient\Bin\Debug\ar\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\HassanAbbas\Documents\Visual Studio 2012\Projects\wbclient\wbclient\Bin\Debug\bg\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\HassanAbbas\Documents\Visual Studio 2012\Projects\wbclient\wbclient\Bin\Debug\ca\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\HassanAbbas\Documents\Visual Studio 2012\Projects\wbclient\wbclient\Bin\Debug\cs\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\HassanAbbas\Documents\Visual Studio 2012\Projects\wbclient\wbclient\Bin\Debug\da\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\HassanAbbas\Documents\Visual Studio 2012\Projects\wbclient\wbclient\Bin\Debug\de\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\HassanAbbas\Documents\Visual Studio 2012\Projects\wbclient\wbclient\Bin\Debug\el\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\HassanAbbas\Documents\Visual Studio 2012\Projects\wbclient\wbclient\Bin\Debug\es\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\HassanAbbas\Documents\Visual Studio 2012\Projects\wbclient\wbclient\Bin\Debug\et\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\HassanAbbas\Documents\Visual Studio 2012\Projects\wbclient\wbclient\Bin\Debug\eu\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\HassanAbbas\Documents\Visual Studio 2012\Projects\wbclient\wbclient\Bin\Debug\fi\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\HassanAbbas\Documents\Visual Studio 2012\Projects\wbclient\wbclient\Bin\Debug\fr\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\HassanAbbas\Documents\Visual Studio 2012\Projects\wbclient\wbclient\Bin\Debug\he\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\HassanAbbas\Documents\Visual Studio 2012\Projects\wbclient\wbclient\Bin\Debug\hr\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\HassanAbbas\Documents\Visual Studio 2012\Projects\wbclient\wbclient\Bin\Debug\hu\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\HassanAbbas\Documents\Visual Studio 2012\Projects\wbclient\wbclient\Bin\Debug\id\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\HassanAbbas\Documents\Visual Studio 2012\Projects\wbclient\wbclient\Bin\Debug\it\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\HassanAbbas\Documents\Visual Studio 2012\Projects\wbclient\wbclient\Bin\Debug\ja\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\HassanAbbas\Documents\Visual Studio 2012\Projects\wbclient\wbclient\Bin\Debug\ko\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\HassanAbbas\Documents\Visual Studio 2012\Projects\wbclient\wbclient\Bin\Debug\lt\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\HassanAbbas\Documents\Visual Studio 2012\Projects\wbclient\wbclient\Bin\Debug\lv\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\HassanAbbas\Documents\Visual Studio 2012\Projects\wbclient\wbclient\Bin\Debug\ms\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\HassanAbbas\Documents\Visual Studio 2012\Projects\wbclient\wbclient\Bin\Debug\nl\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\HassanAbbas\Documents\Visual Studio 2012\Projects\wbclient\wbclient\Bin\Debug\no\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\HassanAbbas\Documents\Visual Studio 2012\Projects\wbclient\wbclient\Bin\Debug\pl\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\HassanAbbas\Documents\Visual Studio 2012\Projects\wbclient\wbclient\Bin\Debug\pt\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\HassanAbbas\Documents\Visual Studio 2012\Projects\wbclient\wbclient\Bin\Debug\pt-BR\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\HassanAbbas\Documents\Visual Studio 2012\Projects\wbclient\wbclient\Bin\Debug\ro\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\HassanAbbas\Documents\Visual Studio 2012\Projects\wbclient\wbclient\Bin\Debug\ru\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\HassanAbbas\Documents\Visual Studio 2012\Projects\wbclient\wbclient\Bin\Debug\sk\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\HassanAbbas\Documents\Visual Studio 2012\Projects\wbclient\wbclient\Bin\Debug\sl\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\HassanAbbas\Documents\Visual Studio 2012\Projects\wbclient\wbclient\Bin\Debug\sr-Cyrl-CS\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\HassanAbbas\Documents\Visual Studio 2012\Projects\wbclient\wbclient\Bin\Debug\sr-Latn-CS\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\HassanAbbas\Documents\Visual Studio 2012\Projects\wbclient\wbclient\Bin\Debug\sv\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\HassanAbbas\Documents\Visual Studio 2012\Projects\wbclient\wbclient\Bin\Debug\th\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\HassanAbbas\Documents\Visual Studio 2012\Projects\wbclient\wbclient\Bin\Debug\tr\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\HassanAbbas\Documents\Visual Studio 2012\Projects\wbclient\wbclient\Bin\Debug\uk\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\HassanAbbas\Documents\Visual Studio 2012\Projects\wbclient\wbclient\Bin\Debug\vi\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\HassanAbbas\Documents\Visual Studio 2012\Projects\wbclient\wbclient\Bin\Debug\zh-Hans\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\HassanAbbas\Documents\Visual Studio 2012\Projects\wbclient\wbclient\Bin\Debug\zh-Hant\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\HassanAbbas\Documents\Visual Studio 2012\Projects\wbclient\wbclient\obj\Debug\App.g.cs
+C:\Users\HassanAbbas\Documents\Visual Studio 2012\Projects\wbclient\wbclient\obj\Debug\MainPage.g.cs
+C:\Users\HassanAbbas\Documents\Visual Studio 2012\Projects\wbclient\wbclient\obj\Debug\wbclient.g.resources
+C:\Users\HassanAbbas\Documents\Visual Studio 2012\Projects\wbclient\wbclient\obj\Debug\wbclient.dll
+C:\Users\HassanAbbas\Documents\Visual Studio 2012\Projects\wbclient\wbclient\obj\Debug\wbclient.pdb
+C:\Users\HassanAbbas\Documents\Visual Studio 2012\Projects\wbclient\wbclient\obj\Debug\XapCacheFile.xml
+C:\Users\Arsalan\Desktop\New Modified Project\wbclient\wbclient\Bin\Debug\wbclient.dll
+C:\Users\Arsalan\Desktop\New Modified Project\wbclient\wbclient\Bin\Debug\wbclient.pdb
+C:\Users\Arsalan\Desktop\New Modified Project\wbclient\wbclient\Bin\Debug\AppManifest.xaml
+C:\Users\Arsalan\Desktop\New Modified Project\wbclient\wbclient\Bin\Debug\wbclient.xap
+C:\Users\Arsalan\Desktop\New Modified Project\wbclient\wbclient\Bin\Debug\wbclientTestPage.html
+C:\Users\Arsalan\Desktop\New Modified Project\wbclient\wbclient\Bin\Debug\System.ComponentModel.DataAnnotations.dll
+C:\Users\Arsalan\Desktop\New Modified Project\wbclient\wbclient\Bin\Debug\System.Windows.Controls.Data.Input.dll
+C:\Users\Arsalan\Desktop\New Modified Project\wbclient\wbclient\Bin\Debug\System.Windows.Controls.dll
+C:\Users\Arsalan\Desktop\New Modified Project\wbclient\wbclient\Bin\Debug\System.ComponentModel.DataAnnotations.xml
+C:\Users\Arsalan\Desktop\New Modified Project\wbclient\wbclient\Bin\Debug\System.Windows.Controls.xml
+C:\Users\Arsalan\Desktop\New Modified Project\wbclient\wbclient\Bin\Debug\System.Windows.Controls.Data.Input.xml
+C:\Users\Arsalan\Desktop\New Modified Project\wbclient\wbclient\Bin\Debug\ar\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Arsalan\Desktop\New Modified Project\wbclient\wbclient\Bin\Debug\bg\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Arsalan\Desktop\New Modified Project\wbclient\wbclient\Bin\Debug\ca\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Arsalan\Desktop\New Modified Project\wbclient\wbclient\Bin\Debug\cs\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Arsalan\Desktop\New Modified Project\wbclient\wbclient\Bin\Debug\da\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Arsalan\Desktop\New Modified Project\wbclient\wbclient\Bin\Debug\de\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Arsalan\Desktop\New Modified Project\wbclient\wbclient\Bin\Debug\el\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Arsalan\Desktop\New Modified Project\wbclient\wbclient\Bin\Debug\es\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Arsalan\Desktop\New Modified Project\wbclient\wbclient\Bin\Debug\et\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Arsalan\Desktop\New Modified Project\wbclient\wbclient\Bin\Debug\eu\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Arsalan\Desktop\New Modified Project\wbclient\wbclient\Bin\Debug\fi\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Arsalan\Desktop\New Modified Project\wbclient\wbclient\Bin\Debug\fr\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Arsalan\Desktop\New Modified Project\wbclient\wbclient\Bin\Debug\he\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Arsalan\Desktop\New Modified Project\wbclient\wbclient\Bin\Debug\hr\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Arsalan\Desktop\New Modified Project\wbclient\wbclient\Bin\Debug\hu\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Arsalan\Desktop\New Modified Project\wbclient\wbclient\Bin\Debug\id\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Arsalan\Desktop\New Modified Project\wbclient\wbclient\Bin\Debug\it\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Arsalan\Desktop\New Modified Project\wbclient\wbclient\Bin\Debug\ja\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Arsalan\Desktop\New Modified Project\wbclient\wbclient\Bin\Debug\ko\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Arsalan\Desktop\New Modified Project\wbclient\wbclient\Bin\Debug\lt\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Arsalan\Desktop\New Modified Project\wbclient\wbclient\Bin\Debug\lv\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Arsalan\Desktop\New Modified Project\wbclient\wbclient\Bin\Debug\ms\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Arsalan\Desktop\New Modified Project\wbclient\wbclient\Bin\Debug\nl\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Arsalan\Desktop\New Modified Project\wbclient\wbclient\Bin\Debug\no\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Arsalan\Desktop\New Modified Project\wbclient\wbclient\Bin\Debug\pl\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Arsalan\Desktop\New Modified Project\wbclient\wbclient\Bin\Debug\pt\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Arsalan\Desktop\New Modified Project\wbclient\wbclient\Bin\Debug\pt-BR\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Arsalan\Desktop\New Modified Project\wbclient\wbclient\Bin\Debug\ro\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Arsalan\Desktop\New Modified Project\wbclient\wbclient\Bin\Debug\ru\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Arsalan\Desktop\New Modified Project\wbclient\wbclient\Bin\Debug\sk\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Arsalan\Desktop\New Modified Project\wbclient\wbclient\Bin\Debug\sl\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Arsalan\Desktop\New Modified Project\wbclient\wbclient\Bin\Debug\sr-Cyrl-CS\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Arsalan\Desktop\New Modified Project\wbclient\wbclient\Bin\Debug\sr-Latn-CS\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Arsalan\Desktop\New Modified Project\wbclient\wbclient\Bin\Debug\sv\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Arsalan\Desktop\New Modified Project\wbclient\wbclient\Bin\Debug\th\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Arsalan\Desktop\New Modified Project\wbclient\wbclient\Bin\Debug\tr\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Arsalan\Desktop\New Modified Project\wbclient\wbclient\Bin\Debug\uk\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Arsalan\Desktop\New Modified Project\wbclient\wbclient\Bin\Debug\vi\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Arsalan\Desktop\New Modified Project\wbclient\wbclient\Bin\Debug\zh-Hans\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Arsalan\Desktop\New Modified Project\wbclient\wbclient\Bin\Debug\zh-Hant\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Arsalan\Desktop\New Modified Project\wbclient\wbclient\Bin\Debug\ar\System.Windows.Controls.resources.dll
+C:\Users\Arsalan\Desktop\New Modified Project\wbclient\wbclient\Bin\Debug\bg\System.Windows.Controls.resources.dll
+C:\Users\Arsalan\Desktop\New Modified Project\wbclient\wbclient\Bin\Debug\ca\System.Windows.Controls.resources.dll
+C:\Users\Arsalan\Desktop\New Modified Project\wbclient\wbclient\Bin\Debug\cs\System.Windows.Controls.resources.dll
+C:\Users\Arsalan\Desktop\New Modified Project\wbclient\wbclient\Bin\Debug\da\System.Windows.Controls.resources.dll
+C:\Users\Arsalan\Desktop\New Modified Project\wbclient\wbclient\Bin\Debug\de\System.Windows.Controls.resources.dll
+C:\Users\Arsalan\Desktop\New Modified Project\wbclient\wbclient\Bin\Debug\el\System.Windows.Controls.resources.dll
+C:\Users\Arsalan\Desktop\New Modified Project\wbclient\wbclient\Bin\Debug\es\System.Windows.Controls.resources.dll
+C:\Users\Arsalan\Desktop\New Modified Project\wbclient\wbclient\Bin\Debug\et\System.Windows.Controls.resources.dll
+C:\Users\Arsalan\Desktop\New Modified Project\wbclient\wbclient\Bin\Debug\eu\System.Windows.Controls.resources.dll
+C:\Users\Arsalan\Desktop\New Modified Project\wbclient\wbclient\Bin\Debug\fi\System.Windows.Controls.resources.dll
+C:\Users\Arsalan\Desktop\New Modified Project\wbclient\wbclient\Bin\Debug\fr\System.Windows.Controls.resources.dll
+C:\Users\Arsalan\Desktop\New Modified Project\wbclient\wbclient\Bin\Debug\he\System.Windows.Controls.resources.dll
+C:\Users\Arsalan\Desktop\New Modified Project\wbclient\wbclient\Bin\Debug\hr\System.Windows.Controls.resources.dll
+C:\Users\Arsalan\Desktop\New Modified Project\wbclient\wbclient\Bin\Debug\hu\System.Windows.Controls.resources.dll
+C:\Users\Arsalan\Desktop\New Modified Project\wbclient\wbclient\Bin\Debug\id\System.Windows.Controls.resources.dll
+C:\Users\Arsalan\Desktop\New Modified Project\wbclient\wbclient\Bin\Debug\it\System.Windows.Controls.resources.dll
+C:\Users\Arsalan\Desktop\New Modified Project\wbclient\wbclient\Bin\Debug\ja\System.Windows.Controls.resources.dll
+C:\Users\Arsalan\Desktop\New Modified Project\wbclient\wbclient\Bin\Debug\ko\System.Windows.Controls.resources.dll
+C:\Users\Arsalan\Desktop\New Modified Project\wbclient\wbclient\Bin\Debug\lt\System.Windows.Controls.resources.dll
+C:\Users\Arsalan\Desktop\New Modified Project\wbclient\wbclient\Bin\Debug\lv\System.Windows.Controls.resources.dll
+C:\Users\Arsalan\Desktop\New Modified Project\wbclient\wbclient\Bin\Debug\ms\System.Windows.Controls.resources.dll
+C:\Users\Arsalan\Desktop\New Modified Project\wbclient\wbclient\Bin\Debug\nl\System.Windows.Controls.resources.dll
+C:\Users\Arsalan\Desktop\New Modified Project\wbclient\wbclient\Bin\Debug\no\System.Windows.Controls.resources.dll
+C:\Users\Arsalan\Desktop\New Modified Project\wbclient\wbclient\Bin\Debug\pl\System.Windows.Controls.resources.dll
+C:\Users\Arsalan\Desktop\New Modified Project\wbclient\wbclient\Bin\Debug\pt\System.Windows.Controls.resources.dll
+C:\Users\Arsalan\Desktop\New Modified Project\wbclient\wbclient\Bin\Debug\pt-BR\System.Windows.Controls.resources.dll
+C:\Users\Arsalan\Desktop\New Modified Project\wbclient\wbclient\Bin\Debug\ro\System.Windows.Controls.resources.dll
+C:\Users\Arsalan\Desktop\New Modified Project\wbclient\wbclient\Bin\Debug\ru\System.Windows.Controls.resources.dll
+C:\Users\Arsalan\Desktop\New Modified Project\wbclient\wbclient\Bin\Debug\sk\System.Windows.Controls.resources.dll
+C:\Users\Arsalan\Desktop\New Modified Project\wbclient\wbclient\Bin\Debug\sl\System.Windows.Controls.resources.dll
+C:\Users\Arsalan\Desktop\New Modified Project\wbclient\wbclient\Bin\Debug\sr-Cyrl-CS\System.Windows.Controls.resources.dll
+C:\Users\Arsalan\Desktop\New Modified Project\wbclient\wbclient\Bin\Debug\sr-Latn-CS\System.Windows.Controls.resources.dll
+C:\Users\Arsalan\Desktop\New Modified Project\wbclient\wbclient\Bin\Debug\sv\System.Windows.Controls.resources.dll
+C:\Users\Arsalan\Desktop\New Modified Project\wbclient\wbclient\Bin\Debug\th\System.Windows.Controls.resources.dll
+C:\Users\Arsalan\Desktop\New Modified Project\wbclient\wbclient\Bin\Debug\tr\System.Windows.Controls.resources.dll
+C:\Users\Arsalan\Desktop\New Modified Project\wbclient\wbclient\Bin\Debug\uk\System.Windows.Controls.resources.dll
+C:\Users\Arsalan\Desktop\New Modified Project\wbclient\wbclient\Bin\Debug\vi\System.Windows.Controls.resources.dll
+C:\Users\Arsalan\Desktop\New Modified Project\wbclient\wbclient\Bin\Debug\zh-Hans\System.Windows.Controls.resources.dll
+C:\Users\Arsalan\Desktop\New Modified Project\wbclient\wbclient\Bin\Debug\zh-Hant\System.Windows.Controls.resources.dll
+C:\Users\Arsalan\Desktop\New Modified Project\wbclient\wbclient\Bin\Debug\ar\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Arsalan\Desktop\New Modified Project\wbclient\wbclient\Bin\Debug\bg\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Arsalan\Desktop\New Modified Project\wbclient\wbclient\Bin\Debug\ca\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Arsalan\Desktop\New Modified Project\wbclient\wbclient\Bin\Debug\cs\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Arsalan\Desktop\New Modified Project\wbclient\wbclient\Bin\Debug\da\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Arsalan\Desktop\New Modified Project\wbclient\wbclient\Bin\Debug\de\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Arsalan\Desktop\New Modified Project\wbclient\wbclient\Bin\Debug\el\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Arsalan\Desktop\New Modified Project\wbclient\wbclient\Bin\Debug\es\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Arsalan\Desktop\New Modified Project\wbclient\wbclient\Bin\Debug\et\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Arsalan\Desktop\New Modified Project\wbclient\wbclient\Bin\Debug\eu\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Arsalan\Desktop\New Modified Project\wbclient\wbclient\Bin\Debug\fi\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Arsalan\Desktop\New Modified Project\wbclient\wbclient\Bin\Debug\fr\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Arsalan\Desktop\New Modified Project\wbclient\wbclient\Bin\Debug\he\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Arsalan\Desktop\New Modified Project\wbclient\wbclient\Bin\Debug\hr\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Arsalan\Desktop\New Modified Project\wbclient\wbclient\Bin\Debug\hu\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Arsalan\Desktop\New Modified Project\wbclient\wbclient\Bin\Debug\id\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Arsalan\Desktop\New Modified Project\wbclient\wbclient\Bin\Debug\it\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Arsalan\Desktop\New Modified Project\wbclient\wbclient\Bin\Debug\ja\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Arsalan\Desktop\New Modified Project\wbclient\wbclient\Bin\Debug\ko\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Arsalan\Desktop\New Modified Project\wbclient\wbclient\Bin\Debug\lt\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Arsalan\Desktop\New Modified Project\wbclient\wbclient\Bin\Debug\lv\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Arsalan\Desktop\New Modified Project\wbclient\wbclient\Bin\Debug\ms\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Arsalan\Desktop\New Modified Project\wbclient\wbclient\Bin\Debug\nl\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Arsalan\Desktop\New Modified Project\wbclient\wbclient\Bin\Debug\no\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Arsalan\Desktop\New Modified Project\wbclient\wbclient\Bin\Debug\pl\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Arsalan\Desktop\New Modified Project\wbclient\wbclient\Bin\Debug\pt\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Arsalan\Desktop\New Modified Project\wbclient\wbclient\Bin\Debug\pt-BR\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Arsalan\Desktop\New Modified Project\wbclient\wbclient\Bin\Debug\ro\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Arsalan\Desktop\New Modified Project\wbclient\wbclient\Bin\Debug\ru\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Arsalan\Desktop\New Modified Project\wbclient\wbclient\Bin\Debug\sk\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Arsalan\Desktop\New Modified Project\wbclient\wbclient\Bin\Debug\sl\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Arsalan\Desktop\New Modified Project\wbclient\wbclient\Bin\Debug\sr-Cyrl-CS\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Arsalan\Desktop\New Modified Project\wbclient\wbclient\Bin\Debug\sr-Latn-CS\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Arsalan\Desktop\New Modified Project\wbclient\wbclient\Bin\Debug\sv\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Arsalan\Desktop\New Modified Project\wbclient\wbclient\Bin\Debug\th\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Arsalan\Desktop\New Modified Project\wbclient\wbclient\Bin\Debug\tr\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Arsalan\Desktop\New Modified Project\wbclient\wbclient\Bin\Debug\uk\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Arsalan\Desktop\New Modified Project\wbclient\wbclient\Bin\Debug\vi\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Arsalan\Desktop\New Modified Project\wbclient\wbclient\Bin\Debug\zh-Hans\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Arsalan\Desktop\New Modified Project\wbclient\wbclient\Bin\Debug\zh-Hant\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Arsalan\Desktop\New Modified Project\wbclient\wbclient\obj\Debug\wbclient.csprojResolveAssemblyReference.cache
+C:\Users\Arsalan\Desktop\New Modified Project\wbclient\wbclient\obj\Debug\App.g.cs
+C:\Users\Arsalan\Desktop\New Modified Project\wbclient\wbclient\obj\Debug\MainPage.g.cs
+C:\Users\Arsalan\Desktop\New Modified Project\wbclient\wbclient\obj\Debug\wbclient.g.resources
+C:\Users\Arsalan\Desktop\New Modified Project\wbclient\wbclient\obj\Debug\wbclient.dll
+C:\Users\Arsalan\Desktop\New Modified Project\wbclient\wbclient\obj\Debug\wbclient.pdb
+C:\Users\Arsalan\Desktop\New Modified Project\wbclient\wbclient\obj\Debug\XapCacheFile.xml
+D:\FYP WEB-BOARD\from hassan side\New Modified Project\wbclient\wbclient\Bin\Debug\wbclient.dll
+D:\FYP WEB-BOARD\from hassan side\New Modified Project\wbclient\wbclient\Bin\Debug\wbclient.pdb
+D:\FYP WEB-BOARD\from hassan side\New Modified Project\wbclient\wbclient\Bin\Debug\AppManifest.xaml
+D:\FYP WEB-BOARD\from hassan side\New Modified Project\wbclient\wbclient\Bin\Debug\wbclient.xap
+D:\FYP WEB-BOARD\from hassan side\New Modified Project\wbclient\wbclient\Bin\Debug\wbclientTestPage.html
+D:\FYP WEB-BOARD\from hassan side\New Modified Project\wbclient\wbclient\Bin\Debug\System.ComponentModel.DataAnnotations.dll
+D:\FYP WEB-BOARD\from hassan side\New Modified Project\wbclient\wbclient\Bin\Debug\System.Windows.Controls.Data.Input.dll
+D:\FYP WEB-BOARD\from hassan side\New Modified Project\wbclient\wbclient\Bin\Debug\System.Windows.Controls.dll
+D:\FYP WEB-BOARD\from hassan side\New Modified Project\wbclient\wbclient\Bin\Debug\System.ComponentModel.DataAnnotations.xml
+D:\FYP WEB-BOARD\from hassan side\New Modified Project\wbclient\wbclient\Bin\Debug\System.Windows.Controls.xml
+D:\FYP WEB-BOARD\from hassan side\New Modified Project\wbclient\wbclient\Bin\Debug\System.Windows.Controls.Data.Input.xml
+D:\FYP WEB-BOARD\from hassan side\New Modified Project\wbclient\wbclient\Bin\Debug\ar\System.ComponentModel.DataAnnotations.resources.dll
+D:\FYP WEB-BOARD\from hassan side\New Modified Project\wbclient\wbclient\Bin\Debug\bg\System.ComponentModel.DataAnnotations.resources.dll
+D:\FYP WEB-BOARD\from hassan side\New Modified Project\wbclient\wbclient\Bin\Debug\ca\System.ComponentModel.DataAnnotations.resources.dll
+D:\FYP WEB-BOARD\from hassan side\New Modified Project\wbclient\wbclient\Bin\Debug\cs\System.ComponentModel.DataAnnotations.resources.dll
+D:\FYP WEB-BOARD\from hassan side\New Modified Project\wbclient\wbclient\Bin\Debug\da\System.ComponentModel.DataAnnotations.resources.dll
+D:\FYP WEB-BOARD\from hassan side\New Modified Project\wbclient\wbclient\Bin\Debug\de\System.ComponentModel.DataAnnotations.resources.dll
+D:\FYP WEB-BOARD\from hassan side\New Modified Project\wbclient\wbclient\Bin\Debug\el\System.ComponentModel.DataAnnotations.resources.dll
+D:\FYP WEB-BOARD\from hassan side\New Modified Project\wbclient\wbclient\Bin\Debug\es\System.ComponentModel.DataAnnotations.resources.dll
+D:\FYP WEB-BOARD\from hassan side\New Modified Project\wbclient\wbclient\Bin\Debug\et\System.ComponentModel.DataAnnotations.resources.dll
+D:\FYP WEB-BOARD\from hassan side\New Modified Project\wbclient\wbclient\Bin\Debug\eu\System.ComponentModel.DataAnnotations.resources.dll
+D:\FYP WEB-BOARD\from hassan side\New Modified Project\wbclient\wbclient\Bin\Debug\fi\System.ComponentModel.DataAnnotations.resources.dll
+D:\FYP WEB-BOARD\from hassan side\New Modified Project\wbclient\wbclient\Bin\Debug\fr\System.ComponentModel.DataAnnotations.resources.dll
+D:\FYP WEB-BOARD\from hassan side\New Modified Project\wbclient\wbclient\Bin\Debug\he\System.ComponentModel.DataAnnotations.resources.dll
+D:\FYP WEB-BOARD\from hassan side\New Modified Project\wbclient\wbclient\Bin\Debug\hr\System.ComponentModel.DataAnnotations.resources.dll
+D:\FYP WEB-BOARD\from hassan side\New Modified Project\wbclient\wbclient\Bin\Debug\hu\System.ComponentModel.DataAnnotations.resources.dll
+D:\FYP WEB-BOARD\from hassan side\New Modified Project\wbclient\wbclient\Bin\Debug\id\System.ComponentModel.DataAnnotations.resources.dll
+D:\FYP WEB-BOARD\from hassan side\New Modified Project\wbclient\wbclient\Bin\Debug\it\System.ComponentModel.DataAnnotations.resources.dll
+D:\FYP WEB-BOARD\from hassan side\New Modified Project\wbclient\wbclient\Bin\Debug\ja\System.ComponentModel.DataAnnotations.resources.dll
+D:\FYP WEB-BOARD\from hassan side\New Modified Project\wbclient\wbclient\Bin\Debug\ko\System.ComponentModel.DataAnnotations.resources.dll
+D:\FYP WEB-BOARD\from hassan side\New Modified Project\wbclient\wbclient\Bin\Debug\lt\System.ComponentModel.DataAnnotations.resources.dll
+D:\FYP WEB-BOARD\from hassan side\New Modified Project\wbclient\wbclient\Bin\Debug\lv\System.ComponentModel.DataAnnotations.resources.dll
+D:\FYP WEB-BOARD\from hassan side\New Modified Project\wbclient\wbclient\Bin\Debug\ms\System.ComponentModel.DataAnnotations.resources.dll
+D:\FYP WEB-BOARD\from hassan side\New Modified Project\wbclient\wbclient\Bin\Debug\nl\System.ComponentModel.DataAnnotations.resources.dll
+D:\FYP WEB-BOARD\from hassan side\New Modified Project\wbclient\wbclient\Bin\Debug\no\System.ComponentModel.DataAnnotations.resources.dll
+D:\FYP WEB-BOARD\from hassan side\New Modified Project\wbclient\wbclient\Bin\Debug\pl\System.ComponentModel.DataAnnotations.resources.dll
+D:\FYP WEB-BOARD\from hassan side\New Modified Project\wbclient\wbclient\Bin\Debug\pt\System.ComponentModel.DataAnnotations.resources.dll
+D:\FYP WEB-BOARD\from hassan side\New Modified Project\wbclient\wbclient\Bin\Debug\pt-BR\System.ComponentModel.DataAnnotations.resources.dll
+D:\FYP WEB-BOARD\from hassan side\New Modified Project\wbclient\wbclient\Bin\Debug\ro\System.ComponentModel.DataAnnotations.resources.dll
+D:\FYP WEB-BOARD\from hassan side\New Modified Project\wbclient\wbclient\Bin\Debug\ru\System.ComponentModel.DataAnnotations.resources.dll
+D:\FYP WEB-BOARD\from hassan side\New Modified Project\wbclient\wbclient\Bin\Debug\sk\System.ComponentModel.DataAnnotations.resources.dll
+D:\FYP WEB-BOARD\from hassan side\New Modified Project\wbclient\wbclient\Bin\Debug\sl\System.ComponentModel.DataAnnotations.resources.dll
+D:\FYP WEB-BOARD\from hassan side\New Modified Project\wbclient\wbclient\Bin\Debug\sr-Cyrl-CS\System.ComponentModel.DataAnnotations.resources.dll
+D:\FYP WEB-BOARD\from hassan side\New Modified Project\wbclient\wbclient\Bin\Debug\sr-Latn-CS\System.ComponentModel.DataAnnotations.resources.dll
+D:\FYP WEB-BOARD\from hassan side\New Modified Project\wbclient\wbclient\Bin\Debug\sv\System.ComponentModel.DataAnnotations.resources.dll
+D:\FYP WEB-BOARD\from hassan side\New Modified Project\wbclient\wbclient\Bin\Debug\th\System.ComponentModel.DataAnnotations.resources.dll
+D:\FYP WEB-BOARD\from hassan side\New Modified Project\wbclient\wbclient\Bin\Debug\tr\System.ComponentModel.DataAnnotations.resources.dll
+D:\FYP WEB-BOARD\from hassan side\New Modified Project\wbclient\wbclient\Bin\Debug\uk\System.ComponentModel.DataAnnotations.resources.dll
+D:\FYP WEB-BOARD\from hassan side\New Modified Project\wbclient\wbclient\Bin\Debug\vi\System.ComponentModel.DataAnnotations.resources.dll
+D:\FYP WEB-BOARD\from hassan side\New Modified Project\wbclient\wbclient\Bin\Debug\zh-Hans\System.ComponentModel.DataAnnotations.resources.dll
+D:\FYP WEB-BOARD\from hassan side\New Modified Project\wbclient\wbclient\Bin\Debug\zh-Hant\System.ComponentModel.DataAnnotations.resources.dll
+D:\FYP WEB-BOARD\from hassan side\New Modified Project\wbclient\wbclient\Bin\Debug\ar\System.Windows.Controls.resources.dll
+D:\FYP WEB-BOARD\from hassan side\New Modified Project\wbclient\wbclient\Bin\Debug\bg\System.Windows.Controls.resources.dll
+D:\FYP WEB-BOARD\from hassan side\New Modified Project\wbclient\wbclient\Bin\Debug\ca\System.Windows.Controls.resources.dll
+D:\FYP WEB-BOARD\from hassan side\New Modified Project\wbclient\wbclient\Bin\Debug\cs\System.Windows.Controls.resources.dll
+D:\FYP WEB-BOARD\from hassan side\New Modified Project\wbclient\wbclient\Bin\Debug\da\System.Windows.Controls.resources.dll
+D:\FYP WEB-BOARD\from hassan side\New Modified Project\wbclient\wbclient\Bin\Debug\de\System.Windows.Controls.resources.dll
+D:\FYP WEB-BOARD\from hassan side\New Modified Project\wbclient\wbclient\Bin\Debug\el\System.Windows.Controls.resources.dll
+D:\FYP WEB-BOARD\from hassan side\New Modified Project\wbclient\wbclient\Bin\Debug\es\System.Windows.Controls.resources.dll
+D:\FYP WEB-BOARD\from hassan side\New Modified Project\wbclient\wbclient\Bin\Debug\et\System.Windows.Controls.resources.dll
+D:\FYP WEB-BOARD\from hassan side\New Modified Project\wbclient\wbclient\Bin\Debug\eu\System.Windows.Controls.resources.dll
+D:\FYP WEB-BOARD\from hassan side\New Modified Project\wbclient\wbclient\Bin\Debug\fi\System.Windows.Controls.resources.dll
+D:\FYP WEB-BOARD\from hassan side\New Modified Project\wbclient\wbclient\Bin\Debug\fr\System.Windows.Controls.resources.dll
+D:\FYP WEB-BOARD\from hassan side\New Modified Project\wbclient\wbclient\Bin\Debug\he\System.Windows.Controls.resources.dll
+D:\FYP WEB-BOARD\from hassan side\New Modified Project\wbclient\wbclient\Bin\Debug\hr\System.Windows.Controls.resources.dll
+D:\FYP WEB-BOARD\from hassan side\New Modified Project\wbclient\wbclient\Bin\Debug\hu\System.Windows.Controls.resources.dll
+D:\FYP WEB-BOARD\from hassan side\New Modified Project\wbclient\wbclient\Bin\Debug\id\System.Windows.Controls.resources.dll
+D:\FYP WEB-BOARD\from hassan side\New Modified Project\wbclient\wbclient\Bin\Debug\it\System.Windows.Controls.resources.dll
+D:\FYP WEB-BOARD\from hassan side\New Modified Project\wbclient\wbclient\Bin\Debug\ja\System.Windows.Controls.resources.dll
+D:\FYP WEB-BOARD\from hassan side\New Modified Project\wbclient\wbclient\Bin\Debug\ko\System.Windows.Controls.resources.dll
+D:\FYP WEB-BOARD\from hassan side\New Modified Project\wbclient\wbclient\Bin\Debug\lt\System.Windows.Controls.resources.dll
+D:\FYP WEB-BOARD\from hassan side\New Modified Project\wbclient\wbclient\Bin\Debug\lv\System.Windows.Controls.resources.dll
+D:\FYP WEB-BOARD\from hassan side\New Modified Project\wbclient\wbclient\Bin\Debug\ms\System.Windows.Controls.resources.dll
+D:\FYP WEB-BOARD\from hassan side\New Modified Project\wbclient\wbclient\Bin\Debug\nl\System.Windows.Controls.resources.dll
+D:\FYP WEB-BOARD\from hassan side\New Modified Project\wbclient\wbclient\Bin\Debug\no\System.Windows.Controls.resources.dll
+D:\FYP WEB-BOARD\from hassan side\New Modified Project\wbclient\wbclient\Bin\Debug\pl\System.Windows.Controls.resources.dll
+D:\FYP WEB-BOARD\from hassan side\New Modified Project\wbclient\wbclient\Bin\Debug\pt\System.Windows.Controls.resources.dll
+D:\FYP WEB-BOARD\from hassan side\New Modified Project\wbclient\wbclient\Bin\Debug\pt-BR\System.Windows.Controls.resources.dll
+D:\FYP WEB-BOARD\from hassan side\New Modified Project\wbclient\wbclient\Bin\Debug\ro\System.Windows.Controls.resources.dll
+D:\FYP WEB-BOARD\from hassan side\New Modified Project\wbclient\wbclient\Bin\Debug\ru\System.Windows.Controls.resources.dll
+D:\FYP WEB-BOARD\from hassan side\New Modified Project\wbclient\wbclient\Bin\Debug\sk\System.Windows.Controls.resources.dll
+D:\FYP WEB-BOARD\from hassan side\New Modified Project\wbclient\wbclient\Bin\Debug\sl\System.Windows.Controls.resources.dll
+D:\FYP WEB-BOARD\from hassan side\New Modified Project\wbclient\wbclient\Bin\Debug\sr-Cyrl-CS\System.Windows.Controls.resources.dll
+D:\FYP WEB-BOARD\from hassan side\New Modified Project\wbclient\wbclient\Bin\Debug\sr-Latn-CS\System.Windows.Controls.resources.dll
+D:\FYP WEB-BOARD\from hassan side\New Modified Project\wbclient\wbclient\Bin\Debug\sv\System.Windows.Controls.resources.dll
+D:\FYP WEB-BOARD\from hassan side\New Modified Project\wbclient\wbclient\Bin\Debug\th\System.Windows.Controls.resources.dll
+D:\FYP WEB-BOARD\from hassan side\New Modified Project\wbclient\wbclient\Bin\Debug\tr\System.Windows.Controls.resources.dll
+D:\FYP WEB-BOARD\from hassan side\New Modified Project\wbclient\wbclient\Bin\Debug\uk\System.Windows.Controls.resources.dll
+D:\FYP WEB-BOARD\from hassan side\New Modified Project\wbclient\wbclient\Bin\Debug\vi\System.Windows.Controls.resources.dll
+D:\FYP WEB-BOARD\from hassan side\New Modified Project\wbclient\wbclient\Bin\Debug\zh-Hans\System.Windows.Controls.resources.dll
+D:\FYP WEB-BOARD\from hassan side\New Modified Project\wbclient\wbclient\Bin\Debug\zh-Hant\System.Windows.Controls.resources.dll
+D:\FYP WEB-BOARD\from hassan side\New Modified Project\wbclient\wbclient\Bin\Debug\ar\System.Windows.Controls.Data.Input.resources.dll
+D:\FYP WEB-BOARD\from hassan side\New Modified Project\wbclient\wbclient\Bin\Debug\bg\System.Windows.Controls.Data.Input.resources.dll
+D:\FYP WEB-BOARD\from hassan side\New Modified Project\wbclient\wbclient\Bin\Debug\ca\System.Windows.Controls.Data.Input.resources.dll
+D:\FYP WEB-BOARD\from hassan side\New Modified Project\wbclient\wbclient\Bin\Debug\cs\System.Windows.Controls.Data.Input.resources.dll
+D:\FYP WEB-BOARD\from hassan side\New Modified Project\wbclient\wbclient\Bin\Debug\da\System.Windows.Controls.Data.Input.resources.dll
+D:\FYP WEB-BOARD\from hassan side\New Modified Project\wbclient\wbclient\Bin\Debug\de\System.Windows.Controls.Data.Input.resources.dll
+D:\FYP WEB-BOARD\from hassan side\New Modified Project\wbclient\wbclient\Bin\Debug\el\System.Windows.Controls.Data.Input.resources.dll
+D:\FYP WEB-BOARD\from hassan side\New Modified Project\wbclient\wbclient\Bin\Debug\es\System.Windows.Controls.Data.Input.resources.dll
+D:\FYP WEB-BOARD\from hassan side\New Modified Project\wbclient\wbclient\Bin\Debug\et\System.Windows.Controls.Data.Input.resources.dll
+D:\FYP WEB-BOARD\from hassan side\New Modified Project\wbclient\wbclient\Bin\Debug\eu\System.Windows.Controls.Data.Input.resources.dll
+D:\FYP WEB-BOARD\from hassan side\New Modified Project\wbclient\wbclient\Bin\Debug\fi\System.Windows.Controls.Data.Input.resources.dll
+D:\FYP WEB-BOARD\from hassan side\New Modified Project\wbclient\wbclient\Bin\Debug\fr\System.Windows.Controls.Data.Input.resources.dll
+D:\FYP WEB-BOARD\from hassan side\New Modified Project\wbclient\wbclient\Bin\Debug\he\System.Windows.Controls.Data.Input.resources.dll
+D:\FYP WEB-BOARD\from hassan side\New Modified Project\wbclient\wbclient\Bin\Debug\hr\System.Windows.Controls.Data.Input.resources.dll
+D:\FYP WEB-BOARD\from hassan side\New Modified Project\wbclient\wbclient\Bin\Debug\hu\System.Windows.Controls.Data.Input.resources.dll
+D:\FYP WEB-BOARD\from hassan side\New Modified Project\wbclient\wbclient\Bin\Debug\id\System.Windows.Controls.Data.Input.resources.dll
+D:\FYP WEB-BOARD\from hassan side\New Modified Project\wbclient\wbclient\Bin\Debug\it\System.Windows.Controls.Data.Input.resources.dll
+D:\FYP WEB-BOARD\from hassan side\New Modified Project\wbclient\wbclient\Bin\Debug\ja\System.Windows.Controls.Data.Input.resources.dll
+D:\FYP WEB-BOARD\from hassan side\New Modified Project\wbclient\wbclient\Bin\Debug\ko\System.Windows.Controls.Data.Input.resources.dll
+D:\FYP WEB-BOARD\from hassan side\New Modified Project\wbclient\wbclient\Bin\Debug\lt\System.Windows.Controls.Data.Input.resources.dll
+D:\FYP WEB-BOARD\from hassan side\New Modified Project\wbclient\wbclient\Bin\Debug\lv\System.Windows.Controls.Data.Input.resources.dll
+D:\FYP WEB-BOARD\from hassan side\New Modified Project\wbclient\wbclient\Bin\Debug\ms\System.Windows.Controls.Data.Input.resources.dll
+D:\FYP WEB-BOARD\from hassan side\New Modified Project\wbclient\wbclient\Bin\Debug\nl\System.Windows.Controls.Data.Input.resources.dll
+D:\FYP WEB-BOARD\from hassan side\New Modified Project\wbclient\wbclient\Bin\Debug\no\System.Windows.Controls.Data.Input.resources.dll
+D:\FYP WEB-BOARD\from hassan side\New Modified Project\wbclient\wbclient\Bin\Debug\pl\System.Windows.Controls.Data.Input.resources.dll
+D:\FYP WEB-BOARD\from hassan side\New Modified Project\wbclient\wbclient\Bin\Debug\pt\System.Windows.Controls.Data.Input.resources.dll
+D:\FYP WEB-BOARD\from hassan side\New Modified Project\wbclient\wbclient\Bin\Debug\pt-BR\System.Windows.Controls.Data.Input.resources.dll
+D:\FYP WEB-BOARD\from hassan side\New Modified Project\wbclient\wbclient\Bin\Debug\ro\System.Windows.Controls.Data.Input.resources.dll
+D:\FYP WEB-BOARD\from hassan side\New Modified Project\wbclient\wbclient\Bin\Debug\ru\System.Windows.Controls.Data.Input.resources.dll
+D:\FYP WEB-BOARD\from hassan side\New Modified Project\wbclient\wbclient\Bin\Debug\sk\System.Windows.Controls.Data.Input.resources.dll
+D:\FYP WEB-BOARD\from hassan side\New Modified Project\wbclient\wbclient\Bin\Debug\sl\System.Windows.Controls.Data.Input.resources.dll
+D:\FYP WEB-BOARD\from hassan side\New Modified Project\wbclient\wbclient\Bin\Debug\sr-Cyrl-CS\System.Windows.Controls.Data.Input.resources.dll
+D:\FYP WEB-BOARD\from hassan side\New Modified Project\wbclient\wbclient\Bin\Debug\sr-Latn-CS\System.Windows.Controls.Data.Input.resources.dll
+D:\FYP WEB-BOARD\from hassan side\New Modified Project\wbclient\wbclient\Bin\Debug\sv\System.Windows.Controls.Data.Input.resources.dll
+D:\FYP WEB-BOARD\from hassan side\New Modified Project\wbclient\wbclient\Bin\Debug\th\System.Windows.Controls.Data.Input.resources.dll
+D:\FYP WEB-BOARD\from hassan side\New Modified Project\wbclient\wbclient\Bin\Debug\tr\System.Windows.Controls.Data.Input.resources.dll
+D:\FYP WEB-BOARD\from hassan side\New Modified Project\wbclient\wbclient\Bin\Debug\uk\System.Windows.Controls.Data.Input.resources.dll
+D:\FYP WEB-BOARD\from hassan side\New Modified Project\wbclient\wbclient\Bin\Debug\vi\System.Windows.Controls.Data.Input.resources.dll
+D:\FYP WEB-BOARD\from hassan side\New Modified Project\wbclient\wbclient\Bin\Debug\zh-Hans\System.Windows.Controls.Data.Input.resources.dll
+D:\FYP WEB-BOARD\from hassan side\New Modified Project\wbclient\wbclient\Bin\Debug\zh-Hant\System.Windows.Controls.Data.Input.resources.dll
+D:\FYP WEB-BOARD\from hassan side\New Modified Project\wbclient\wbclient\obj\Debug\wbclient.csprojResolveAssemblyReference.cache
+D:\FYP WEB-BOARD\from hassan side\New Modified Project\wbclient\wbclient\obj\Debug\App.g.cs
+D:\FYP WEB-BOARD\from hassan side\New Modified Project\wbclient\wbclient\obj\Debug\MainPage.g.cs
+D:\FYP WEB-BOARD\from hassan side\New Modified Project\wbclient\wbclient\obj\Debug\wbclient.g.resources
+D:\FYP WEB-BOARD\from hassan side\New Modified Project\wbclient\wbclient\obj\Debug\wbclient.dll
+D:\FYP WEB-BOARD\from hassan side\New Modified Project\wbclient\wbclient\obj\Debug\wbclient.pdb
+D:\FYP WEB-BOARD\from hassan side\New Modified Project\wbclient\wbclient\obj\Debug\XapCacheFile.xml
+C:\Users\HassanAbbas\Desktop\wbclient\wbclient\Bin\Debug\wbclient.dll
+C:\Users\HassanAbbas\Desktop\wbclient\wbclient\Bin\Debug\wbclient.pdb
+C:\Users\HassanAbbas\Desktop\wbclient\wbclient\Bin\Debug\AppManifest.xaml
+C:\Users\HassanAbbas\Desktop\wbclient\wbclient\Bin\Debug\wbclient.xap
+C:\Users\HassanAbbas\Desktop\wbclient\wbclient\Bin\Debug\wbclientTestPage.html
+C:\Users\HassanAbbas\Desktop\wbclient\wbclient\Bin\Debug\System.ComponentModel.DataAnnotations.dll
+C:\Users\HassanAbbas\Desktop\wbclient\wbclient\Bin\Debug\System.Windows.Controls.Data.Input.dll
+C:\Users\HassanAbbas\Desktop\wbclient\wbclient\Bin\Debug\System.Windows.Controls.dll
+C:\Users\HassanAbbas\Desktop\wbclient\wbclient\Bin\Debug\telerik.windows.controls.dll
+C:\Users\HassanAbbas\Desktop\wbclient\wbclient\Bin\Debug\System.ComponentModel.DataAnnotations.xml
+C:\Users\HassanAbbas\Desktop\wbclient\wbclient\Bin\Debug\System.Windows.Controls.xml
+C:\Users\HassanAbbas\Desktop\wbclient\wbclient\Bin\Debug\System.Windows.Controls.Data.Input.xml
+C:\Users\HassanAbbas\Desktop\wbclient\wbclient\Bin\Debug\telerik.windows.controls.pdb
+C:\Users\HassanAbbas\Desktop\wbclient\wbclient\Bin\Debug\telerik.windows.controls.xml
+C:\Users\HassanAbbas\Desktop\wbclient\wbclient\Bin\Debug\ar\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\HassanAbbas\Desktop\wbclient\wbclient\Bin\Debug\bg\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\HassanAbbas\Desktop\wbclient\wbclient\Bin\Debug\ca\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\HassanAbbas\Desktop\wbclient\wbclient\Bin\Debug\cs\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\HassanAbbas\Desktop\wbclient\wbclient\Bin\Debug\da\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\HassanAbbas\Desktop\wbclient\wbclient\Bin\Debug\de\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\HassanAbbas\Desktop\wbclient\wbclient\Bin\Debug\el\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\HassanAbbas\Desktop\wbclient\wbclient\Bin\Debug\es\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\HassanAbbas\Desktop\wbclient\wbclient\Bin\Debug\et\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\HassanAbbas\Desktop\wbclient\wbclient\Bin\Debug\eu\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\HassanAbbas\Desktop\wbclient\wbclient\Bin\Debug\fi\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\HassanAbbas\Desktop\wbclient\wbclient\Bin\Debug\fr\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\HassanAbbas\Desktop\wbclient\wbclient\Bin\Debug\he\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\HassanAbbas\Desktop\wbclient\wbclient\Bin\Debug\hr\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\HassanAbbas\Desktop\wbclient\wbclient\Bin\Debug\hu\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\HassanAbbas\Desktop\wbclient\wbclient\Bin\Debug\id\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\HassanAbbas\Desktop\wbclient\wbclient\Bin\Debug\it\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\HassanAbbas\Desktop\wbclient\wbclient\Bin\Debug\ja\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\HassanAbbas\Desktop\wbclient\wbclient\Bin\Debug\ko\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\HassanAbbas\Desktop\wbclient\wbclient\Bin\Debug\lt\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\HassanAbbas\Desktop\wbclient\wbclient\Bin\Debug\lv\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\HassanAbbas\Desktop\wbclient\wbclient\Bin\Debug\ms\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\HassanAbbas\Desktop\wbclient\wbclient\Bin\Debug\nl\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\HassanAbbas\Desktop\wbclient\wbclient\Bin\Debug\no\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\HassanAbbas\Desktop\wbclient\wbclient\Bin\Debug\pl\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\HassanAbbas\Desktop\wbclient\wbclient\Bin\Debug\pt\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\HassanAbbas\Desktop\wbclient\wbclient\Bin\Debug\pt-BR\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\HassanAbbas\Desktop\wbclient\wbclient\Bin\Debug\ro\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\HassanAbbas\Desktop\wbclient\wbclient\Bin\Debug\ru\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\HassanAbbas\Desktop\wbclient\wbclient\Bin\Debug\sk\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\HassanAbbas\Desktop\wbclient\wbclient\Bin\Debug\sl\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\HassanAbbas\Desktop\wbclient\wbclient\Bin\Debug\sr-Cyrl-CS\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\HassanAbbas\Desktop\wbclient\wbclient\Bin\Debug\sr-Latn-CS\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\HassanAbbas\Desktop\wbclient\wbclient\Bin\Debug\sv\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\HassanAbbas\Desktop\wbclient\wbclient\Bin\Debug\th\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\HassanAbbas\Desktop\wbclient\wbclient\Bin\Debug\tr\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\HassanAbbas\Desktop\wbclient\wbclient\Bin\Debug\uk\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\HassanAbbas\Desktop\wbclient\wbclient\Bin\Debug\vi\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\HassanAbbas\Desktop\wbclient\wbclient\Bin\Debug\zh-Hans\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\HassanAbbas\Desktop\wbclient\wbclient\Bin\Debug\zh-Hant\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\HassanAbbas\Desktop\wbclient\wbclient\Bin\Debug\ar\System.Windows.Controls.resources.dll
+C:\Users\HassanAbbas\Desktop\wbclient\wbclient\Bin\Debug\bg\System.Windows.Controls.resources.dll
+C:\Users\HassanAbbas\Desktop\wbclient\wbclient\Bin\Debug\ca\System.Windows.Controls.resources.dll
+C:\Users\HassanAbbas\Desktop\wbclient\wbclient\Bin\Debug\cs\System.Windows.Controls.resources.dll
+C:\Users\HassanAbbas\Desktop\wbclient\wbclient\Bin\Debug\da\System.Windows.Controls.resources.dll
+C:\Users\HassanAbbas\Desktop\wbclient\wbclient\Bin\Debug\de\System.Windows.Controls.resources.dll
+C:\Users\HassanAbbas\Desktop\wbclient\wbclient\Bin\Debug\el\System.Windows.Controls.resources.dll
+C:\Users\HassanAbbas\Desktop\wbclient\wbclient\Bin\Debug\es\System.Windows.Controls.resources.dll
+C:\Users\HassanAbbas\Desktop\wbclient\wbclient\Bin\Debug\et\System.Windows.Controls.resources.dll
+C:\Users\HassanAbbas\Desktop\wbclient\wbclient\Bin\Debug\eu\System.Windows.Controls.resources.dll
+C:\Users\HassanAbbas\Desktop\wbclient\wbclient\Bin\Debug\fi\System.Windows.Controls.resources.dll
+C:\Users\HassanAbbas\Desktop\wbclient\wbclient\Bin\Debug\fr\System.Windows.Controls.resources.dll
+C:\Users\HassanAbbas\Desktop\wbclient\wbclient\Bin\Debug\he\System.Windows.Controls.resources.dll
+C:\Users\HassanAbbas\Desktop\wbclient\wbclient\Bin\Debug\hr\System.Windows.Controls.resources.dll
+C:\Users\HassanAbbas\Desktop\wbclient\wbclient\Bin\Debug\hu\System.Windows.Controls.resources.dll
+C:\Users\HassanAbbas\Desktop\wbclient\wbclient\Bin\Debug\id\System.Windows.Controls.resources.dll
+C:\Users\HassanAbbas\Desktop\wbclient\wbclient\Bin\Debug\it\System.Windows.Controls.resources.dll
+C:\Users\HassanAbbas\Desktop\wbclient\wbclient\Bin\Debug\ja\System.Windows.Controls.resources.dll
+C:\Users\HassanAbbas\Desktop\wbclient\wbclient\Bin\Debug\ko\System.Windows.Controls.resources.dll
+C:\Users\HassanAbbas\Desktop\wbclient\wbclient\Bin\Debug\lt\System.Windows.Controls.resources.dll
+C:\Users\HassanAbbas\Desktop\wbclient\wbclient\Bin\Debug\lv\System.Windows.Controls.resources.dll
+C:\Users\HassanAbbas\Desktop\wbclient\wbclient\Bin\Debug\ms\System.Windows.Controls.resources.dll
+C:\Users\HassanAbbas\Desktop\wbclient\wbclient\Bin\Debug\nl\System.Windows.Controls.resources.dll
+C:\Users\HassanAbbas\Desktop\wbclient\wbclient\Bin\Debug\no\System.Windows.Controls.resources.dll
+C:\Users\HassanAbbas\Desktop\wbclient\wbclient\Bin\Debug\pl\System.Windows.Controls.resources.dll
+C:\Users\HassanAbbas\Desktop\wbclient\wbclient\Bin\Debug\pt\System.Windows.Controls.resources.dll
+C:\Users\HassanAbbas\Desktop\wbclient\wbclient\Bin\Debug\pt-BR\System.Windows.Controls.resources.dll
+C:\Users\HassanAbbas\Desktop\wbclient\wbclient\Bin\Debug\ro\System.Windows.Controls.resources.dll
+C:\Users\HassanAbbas\Desktop\wbclient\wbclient\Bin\Debug\ru\System.Windows.Controls.resources.dll
+C:\Users\HassanAbbas\Desktop\wbclient\wbclient\Bin\Debug\sk\System.Windows.Controls.resources.dll
+C:\Users\HassanAbbas\Desktop\wbclient\wbclient\Bin\Debug\sl\System.Windows.Controls.resources.dll
+C:\Users\HassanAbbas\Desktop\wbclient\wbclient\Bin\Debug\sr-Cyrl-CS\System.Windows.Controls.resources.dll
+C:\Users\HassanAbbas\Desktop\wbclient\wbclient\Bin\Debug\sr-Latn-CS\System.Windows.Controls.resources.dll
+C:\Users\HassanAbbas\Desktop\wbclient\wbclient\Bin\Debug\sv\System.Windows.Controls.resources.dll
+C:\Users\HassanAbbas\Desktop\wbclient\wbclient\Bin\Debug\th\System.Windows.Controls.resources.dll
+C:\Users\HassanAbbas\Desktop\wbclient\wbclient\Bin\Debug\tr\System.Windows.Controls.resources.dll
+C:\Users\HassanAbbas\Desktop\wbclient\wbclient\Bin\Debug\uk\System.Windows.Controls.resources.dll
+C:\Users\HassanAbbas\Desktop\wbclient\wbclient\Bin\Debug\vi\System.Windows.Controls.resources.dll
+C:\Users\HassanAbbas\Desktop\wbclient\wbclient\Bin\Debug\zh-Hans\System.Windows.Controls.resources.dll
+C:\Users\HassanAbbas\Desktop\wbclient\wbclient\Bin\Debug\zh-Hant\System.Windows.Controls.resources.dll
+C:\Users\HassanAbbas\Desktop\wbclient\wbclient\Bin\Debug\ar\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\HassanAbbas\Desktop\wbclient\wbclient\Bin\Debug\bg\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\HassanAbbas\Desktop\wbclient\wbclient\Bin\Debug\ca\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\HassanAbbas\Desktop\wbclient\wbclient\Bin\Debug\cs\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\HassanAbbas\Desktop\wbclient\wbclient\Bin\Debug\da\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\HassanAbbas\Desktop\wbclient\wbclient\Bin\Debug\de\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\HassanAbbas\Desktop\wbclient\wbclient\Bin\Debug\el\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\HassanAbbas\Desktop\wbclient\wbclient\Bin\Debug\es\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\HassanAbbas\Desktop\wbclient\wbclient\Bin\Debug\et\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\HassanAbbas\Desktop\wbclient\wbclient\Bin\Debug\eu\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\HassanAbbas\Desktop\wbclient\wbclient\Bin\Debug\fi\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\HassanAbbas\Desktop\wbclient\wbclient\Bin\Debug\fr\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\HassanAbbas\Desktop\wbclient\wbclient\Bin\Debug\he\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\HassanAbbas\Desktop\wbclient\wbclient\Bin\Debug\hr\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\HassanAbbas\Desktop\wbclient\wbclient\Bin\Debug\hu\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\HassanAbbas\Desktop\wbclient\wbclient\Bin\Debug\id\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\HassanAbbas\Desktop\wbclient\wbclient\Bin\Debug\it\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\HassanAbbas\Desktop\wbclient\wbclient\Bin\Debug\ja\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\HassanAbbas\Desktop\wbclient\wbclient\Bin\Debug\ko\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\HassanAbbas\Desktop\wbclient\wbclient\Bin\Debug\lt\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\HassanAbbas\Desktop\wbclient\wbclient\Bin\Debug\lv\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\HassanAbbas\Desktop\wbclient\wbclient\Bin\Debug\ms\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\HassanAbbas\Desktop\wbclient\wbclient\Bin\Debug\nl\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\HassanAbbas\Desktop\wbclient\wbclient\Bin\Debug\no\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\HassanAbbas\Desktop\wbclient\wbclient\Bin\Debug\pl\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\HassanAbbas\Desktop\wbclient\wbclient\Bin\Debug\pt\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\HassanAbbas\Desktop\wbclient\wbclient\Bin\Debug\pt-BR\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\HassanAbbas\Desktop\wbclient\wbclient\Bin\Debug\ro\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\HassanAbbas\Desktop\wbclient\wbclient\Bin\Debug\ru\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\HassanAbbas\Desktop\wbclient\wbclient\Bin\Debug\sk\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\HassanAbbas\Desktop\wbclient\wbclient\Bin\Debug\sl\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\HassanAbbas\Desktop\wbclient\wbclient\Bin\Debug\sr-Cyrl-CS\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\HassanAbbas\Desktop\wbclient\wbclient\Bin\Debug\sr-Latn-CS\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\HassanAbbas\Desktop\wbclient\wbclient\Bin\Debug\sv\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\HassanAbbas\Desktop\wbclient\wbclient\Bin\Debug\th\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\HassanAbbas\Desktop\wbclient\wbclient\Bin\Debug\tr\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\HassanAbbas\Desktop\wbclient\wbclient\Bin\Debug\uk\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\HassanAbbas\Desktop\wbclient\wbclient\Bin\Debug\vi\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\HassanAbbas\Desktop\wbclient\wbclient\Bin\Debug\zh-Hans\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\HassanAbbas\Desktop\wbclient\wbclient\Bin\Debug\zh-Hant\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\HassanAbbas\Desktop\wbclient\wbclient\Bin\Debug\de\telerik.windows.controls.resources.dll
+C:\Users\HassanAbbas\Desktop\wbclient\wbclient\Bin\Debug\es\telerik.windows.controls.resources.dll
+C:\Users\HassanAbbas\Desktop\wbclient\wbclient\Bin\Debug\fr\telerik.windows.controls.resources.dll
+C:\Users\HassanAbbas\Desktop\wbclient\wbclient\Bin\Debug\it\telerik.windows.controls.resources.dll
+C:\Users\HassanAbbas\Desktop\wbclient\wbclient\Bin\Debug\nl\telerik.windows.controls.resources.dll
+C:\Users\HassanAbbas\Desktop\wbclient\wbclient\Bin\Debug\tr\telerik.windows.controls.resources.dll
+C:\Users\HassanAbbas\Desktop\wbclient\wbclient\obj\Debug\App.g.cs
+C:\Users\HassanAbbas\Desktop\wbclient\wbclient\obj\Debug\MainPage.g.cs
+C:\Users\HassanAbbas\Desktop\wbclient\wbclient\obj\Debug\wbclient.g.resources
+C:\Users\HassanAbbas\Desktop\wbclient\wbclient\obj\Debug\wbclient.dll
+C:\Users\HassanAbbas\Desktop\wbclient\wbclient\obj\Debug\wbclient.pdb
+C:\Users\HassanAbbas\Desktop\wbclient\wbclient\obj\Debug\XapCacheFile.xml

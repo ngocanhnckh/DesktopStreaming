@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="custom" Class="DataClasses1DataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=HASSANABBAS-HP;Initial Catalog=custom;Integrated Security=True" SettingsObjectName="wbserver.Properties.Settings" SettingsPropertyName="customConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.ServerSettings" Member="ServerSettings">
+    <Type Name="ServerSetting">
+      <Column Name="ID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="TextServerIP" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="TextServerPort" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="AudioServerIP" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="AudioServerPort" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="ImageServerIP" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="ImageServerPort" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="TextServerOnline" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+      <Column Name="AudioServerOnline" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+      <Column Name="ImageServerOnline" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+      <Column Name="AutoConfig" Type="System.Boolean" DbType="Bit NOT NULL" CanBeNull="false" />
+    </Type>
+  </Table>
+</Database>

@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="wbserver.Message">
+    <Position X="7.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAgAAAAAAIgAAAABAAAAAAAAAQAAAA=</HashCode>
+      <FileName>ProjectServerClasses\MessageConverterClass\Message.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="wbserver.AudioServer">
+    <Position X="4.25" Y="0.5" Width="1.5" />
+    <NestedTypes>
+      <Class Name="wbserver.AudioServer.AClient" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>ProjectServerClasses\ServerClasses\ServerAudio.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAABAACAQAAhACACAAAAAAAAAAAgAAAAAQQAAAIA=</HashCode>
+      <FileName>ProjectServerClasses\ServerClasses\ServerAudio.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="wbserver.ImageServer">
+    <Position X="6" Y="0.5" Width="1.5" />
+    <NestedTypes>
+      <Class Name="wbserver.ImageServer.DrawImageClient" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>ProjectServerClasses\ServerClasses\ServerImage.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAQAIAAAAgAAAAAAAAAAABAAAACAQAAAIA=</HashCode>
+      <FileName>ProjectServerClasses\ServerClasses\ServerImage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="wbserver.TextServer">
+    <Position X="7.75" Y="3" Width="1.5" />
+    <NestedTypes>
+      <Class Name="wbserver.TextServer.TClient">
+        <TypeIdentifier>
+          <NewMemberFileName>ProjectServerClasses\ServerClasses\ServerText.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAABAACAQAIBAAACAAAAAAAAAAAhAAAAAQQEAAIA=</HashCode>
+      <FileName>ProjectServerClasses\ServerClasses\ServerText.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="wbserver.wb">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AGAAAAASASAUEBCAIACAAABCIIACJUgBEigCACBCAAA=</HashCode>
+      <FileName>wb.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="System.Object" Collapsed="true">
+    <Position X="5.25" Y="5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="System.Windows.Forms.Form" Collapsed="true">
+    <Position X="5.5" Y="6.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Enum Name="wbserver.Command">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACQABAACAIAACggABBEAAABACgggBBQByBIAAABBAII=</HashCode>
+      <FileName>ProjectServerClasses\MessageConverterClass\Message.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

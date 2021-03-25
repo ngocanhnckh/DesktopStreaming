@@ -1,0 +1,427 @@
+﻿<UserControl
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:sdk="http://schemas.microsoft.com/winfx/2006/xaml/presentation/sdk"
+    xmlns:System="clr-namespace:System;assembly=mscorlib"
+    xmlns:telerik="http://schemas.telerik.com/2008/xaml/presentation"
+    xmlns:ToggleSwitch="clr-namespace:ToggleSwitch;assembly=ToggleSwitch"
+    x:Class="wbclient.MainPage"
+    mc:Ignorable="d"
+    Width="625"
+    Height="1100"
+    Background="#25a0da">
+    <Grid
+        x:Name="LayoutRoot"
+        Margin="-5,1,0,-1"
+        HorizontalAlignment="Right"
+        Width="630"
+        Height="1100"
+        Background="#25a0da">
+        <StackPanel
+            Orientation="Vertical"
+            Margin="0,28,32,550">
+            <StackPanel
+                Orientation="Horizontal"
+                Height="32"
+                VerticalAlignment="Top"
+                Width="546"
+                Margin="0,0,0,10">
+                <telerik:RadToggleButton
+                    Width="32"
+                    Name="MuteCheckBox">
+                </telerik:RadToggleButton>
+                <MediaElement
+                    Height="0"
+                    HorizontalAlignment="Left"
+                    Name="mediaElement1"
+                    Width="0" />
+                <Button
+                    x:Name="btnDrawPen"
+                    HorizontalAlignment="Left"
+                    VerticalAlignment="Top"
+                    Width="32"
+                    Height="32"
+                    Click="btnDrawPen_Click"
+                    FontSize="20"
+                    FontWeight="Light">
+                    <Image
+                        Source="Icons/pen48x48.png" />
+                </Button>
+                <Button
+                    x:Name="btnDrawLine"
+                    HorizontalAlignment="Left"
+                    VerticalAlignment="Top"
+                    Width="32"
+                    Height="32"
+                    Click="btnDrawLine_Click">
+                    <Line
+                        X1="0"
+                        X2="32"
+                        Y1="0"
+                        Y2="32"
+                        Stroke="Black"
+                        StrokeThickness="2"
+                        Height="20"
+                        Width="23" />
+                </Button>
+                <Button
+                    x:Name="btnDrawCircle"
+                    HorizontalAlignment="Left"
+                    VerticalAlignment="Top"
+                    Width="32"
+                    Height="32"
+                    Click="btnDrawRect_Click">
+                    <Image
+                        Source="Icons/rectangle.png" />
+                </Button>
+                <Button
+                    x:Name="btnDrawCircle_Copy"
+                    HorizontalAlignment="Left"
+                    VerticalAlignment="Top"
+                    Width="32"
+                    Height="32"
+                    Click="btnDrawCircle_Click">
+                    <Image
+                        Source="Icons/circle.png" />
+                </Button>
+                <Button
+                    x:Name="btnDrawTriangle"
+                    HorizontalAlignment="Left"
+                    VerticalAlignment="Top"
+                    Width="32"
+                    Height="32"
+                    Click="btnDrawTriangle_Click">
+                    <Image
+                        Source="Icons/triangle.png" />
+                </Button>
+                <Button
+                    x:Name="btnDrawEraser"
+                    HorizontalAlignment="Left"
+                    VerticalAlignment="Top"
+                    Width="32"
+                    Height="32"
+                    Click="btnDrawEraser_Click"
+                    FontSize="15"
+                    FontWeight="Light">
+                    <Image
+                        Source="Icons/eraser.png" />
+                </Button>
+                <Button
+                    x:Name="btnHiglight"
+                    HorizontalAlignment="Left"
+                    VerticalAlignment="Top"
+                    Width="32"
+                    Height="32"
+                    Click="btnHiglight_Click"
+                    FontSize="15"
+                    FontWeight="Light">
+                    <Image
+                        Source="Icons/hihgliter.png" />
+                </Button>
+                <Button
+                    x:Name="btnDrawSelect"
+                    HorizontalAlignment="Left"
+                    VerticalAlignment="Top"
+                    Width="32"
+                    Height="32"
+                    Click="btnDrawSelect_Click">
+                    <Image
+                        Source="Icons/selectionRect.png" />
+                </Button>
+                <Button
+                    x:Name="btnDrawClearCanvas"
+                    HorizontalAlignment="Left"
+                    VerticalAlignment="Top"
+                    FontSize="16"
+                    Click="btnDrawClearCanvas_Click">
+                    <Image
+                        Source="Icons/clearCanvas.png" />
+                </Button>
+                <StackPanel
+                    Width="307"
+                    Orientation="Horizontal"
+                    VerticalAlignment="Center"
+                    HorizontalAlignment="Center">
+                    <sdk:Label
+                        HorizontalAlignment="Left"
+                        Height="18"
+                        VerticalAlignment="Center"
+                        Width="47"
+                        Content="Room:"
+                        FontSize="14" />
+                    <ComboBox
+                        x:Name="roomselected_combo"
+                        HorizontalAlignment="Left"
+                        VerticalAlignment="Top"
+                        Width="121"
+                        SelectionChanged="roomselected_combo_SelectionChanged"
+                        Height="23"
+                        Margin="4" />
+                    <Button
+                        x:Name="Connect_btn"
+                        Content="Connect"
+                        HorizontalAlignment="Left"
+                        VerticalAlignment="Top"
+                        Width="75"
+                        Click="Connect_btn_Click"
+                        Padding="4"
+                        Margin="4                             " />
+                </StackPanel>
+            </StackPanel>
+            <StackPanel
+                Orientation="Horizontal"
+                HorizontalAlignment="Center"
+                VerticalAlignment="Center">
+                <sdk:Label
+                    HorizontalAlignment="Left"
+                    Height="15"
+                    VerticalAlignment="Center"
+                    Width="66"
+                    Content="Border Size:" />
+                <ComboBox
+                    x:Name="combBordSize"
+                    HorizontalAlignment="Left"
+                    VerticalAlignment="Top"
+                    Width="99"
+                    SelectionChanged="combBordSize_SelectionChanged"
+                    Margin="2,0,0,0" />
+                <sdk:Label
+                    HorizontalAlignment="Left"
+                    Height="17"
+                    VerticalAlignment="Center"
+                    Width="73"
+                    Content="Border Color : "
+                    Padding="4,0,0,0" />
+                <ComboBox
+                    x:Name="combColorPik"
+                    HorizontalAlignment="Left"
+                    VerticalAlignment="Top"
+                    Width="53"
+                    SelectionChanged="combColorPik_SelectionChanged"
+                    Height="21"
+                    Margin="4,0,0,0">
+                    <Rectangle
+                        Fill="Black"
+                        Height="15"
+                        Stroke="Black"
+                        Width="15" />
+                    <Rectangle
+                        Fill="White"
+                        Height="15"
+                        Width="15"
+                        Stroke="Black" />
+                    <Rectangle
+                        Fill="Red"
+                        Height="15"
+                        Width="15"
+                        Stroke="Black" />
+                    <Rectangle
+                        Fill="Green"
+                        Height="15"
+                        Width="15"
+                        Stroke="Black" />
+                    <Rectangle
+                        Fill="Blue"
+                        Height="15"
+                        Width="15"
+                        Stroke="Black" />
+                    <Rectangle
+                        Fill="Bisque"
+                        Height="15"
+                        Width="15"
+                        Stroke="Black" />
+                    <Rectangle
+                        Fill="DarkBlue"
+                        Height="15"
+                        Width="15"
+                        Stroke="Black" />
+                    <Rectangle
+                        Fill="DarkGreen"
+                        Height="15"
+                        Width="15"
+                        Stroke="Black" />
+                    <Rectangle
+                        Fill="Yellow"
+                        Height="15"
+                        Width="15"
+                        Stroke="Black" />
+                    <Rectangle
+                        Fill="YellowGreen"
+                        Height="15"
+                        Width="15"
+                        Stroke="Black" />
+                    <Rectangle
+                        Fill="Pink"
+                        Height="15"
+                        Width="15"
+                        Stroke="Black" />
+                    <Rectangle
+                        Fill="Gray"
+                        Height="15"
+                        Width="15"
+                        Stroke="Black" />
+                </ComboBox>
+                <StackPanel
+                    Height="25"
+                    Orientation="Horizontal"
+                    Width="140">
+                    <sdk:Label
+                        HorizontalAlignment="Left"
+                        Height="17"
+                        VerticalAlignment="Center"
+                        Width="73"
+                        Content="Filled Color :"
+                        Padding="5,0,0,0" />
+                    <ComboBox
+                        x:Name="combFillCol"
+                        HorizontalAlignment="Left"
+                        VerticalAlignment="Center"
+                        Width="54"
+                        SelectionChanged="combFillCol_SelectionChanged"
+                        Margin="2,0,0,0">
+                        <Rectangle
+                            Height="15"
+                            Stroke="Black"
+                            Width="15" />
+                        <Rectangle
+                            Fill="Black"
+                            Height="15"
+                            Stroke="Black"
+                            Width="15" />
+                        <Rectangle
+                            Fill="White"
+                            Height="15"
+                            Width="15"
+                            Stroke="Black" />
+                        <Rectangle
+                            Fill="Red"
+                            Height="15"
+                            Width="15"
+                            Stroke="Black" />
+                        <Rectangle
+                            Fill="Green"
+                            Height="15"
+                            Width="15"
+                            Stroke="Black" />
+                        <Rectangle
+                            Fill="Blue"
+                            Height="15"
+                            Width="15"
+                            Stroke="Black" />
+                        <Rectangle
+                            Fill="Bisque"
+                            Height="15"
+                            Width="15"
+                            Stroke="Black" />
+                        <Rectangle
+                            Fill="DarkBlue"
+                            Height="15"
+                            Width="15"
+                            Stroke="Black" />
+                        <Rectangle
+                            Fill="DarkGreen"
+                            Height="15"
+                            Width="15"
+                            Stroke="Black" />
+                        <Rectangle
+                            Fill="Yellow"
+                            Height="15"
+                            Width="15"
+                            Stroke="Black" />
+                        <Rectangle
+                            Fill="YellowGreen"
+                            Height="15"
+                            Width="15"
+                            Stroke="Black" />
+                        <Rectangle
+                            Fill="Pink"
+                            Height="15"
+                            Width="15"
+                            Stroke="Black" />
+                        <Rectangle
+                            Fill="Gray"
+                            Height="15"
+                            Width="15"
+                            Stroke="Black" />
+                    </ComboBox>
+                </StackPanel>
+                <sdk:Label
+                    HorizontalAlignment="Left"
+                    Height="18"
+                    VerticalAlignment="Center"
+                    Width="31"
+                    Content="Nick:" />
+                <TextBox
+                    x:Name="uname_textbox"
+                    HorizontalAlignment="Left"
+                    TextWrapping="Wrap"
+                    VerticalAlignment="Top"
+                    Width="75" />
+            </StackPanel>
+            <Canvas
+                x:Name="paintcanvas"
+                Height="200"
+                Margin="20,20,20,0"
+                VerticalAlignment="Top"
+                MouseLeftButtonDown="paintcanvas_MouseLeftButtonDown"
+                MouseLeftButtonUp="paintcanvas_MouseLeftButtonUp"
+                MouseMove="paintcanvas_MouseMove">
+                <Canvas.Resources>
+                    <Storyboard
+                        x:Name="storyBoard" />
+                </Canvas.Resources>
+                <Canvas.Background>
+                    <ImageBrush
+                        Stretch="Fill"
+                        ImageSource="/Icons/wb.png" />
+                </Canvas.Background>
+            </Canvas>
+            <StackPanel
+                Orientation="Horizontal"
+                Margin="10,10,10,10">
+                <TextBox
+                    x:Name="receiveBox"
+                    HorizontalAlignment="Left"
+                    Height="102"
+                    TextWrapping="Wrap"
+                    VerticalAlignment="Top"
+                    Width="483"
+                    AcceptsReturn="True"
+                    VerticalScrollBarVisibility="Auto"
+                    TextChanged="receiveBox_TextChanged"
+                    Margin="5,5,5,5" Background="Transparent"
+                    Foreground="White" BorderThickness="1" BorderBrush="White"/>
+                <ListBox
+                    x:Name="roomusers_lbox"
+                    HorizontalAlignment="Left"
+                    Height="102"
+                    VerticalAlignment="Top"
+                    Width="80"
+                    Margin="5,5,5,5" />
+            </StackPanel>
+            
+            <StackPanel
+                Orientation="Horizontal">
+                <TextBox
+                    x:Name="sendBox"
+                    HorizontalAlignment="Left"
+                    Height="22"
+                    TextWrapping="Wrap"
+                    VerticalAlignment="Top"
+                    Width="484"
+                    KeyUp="sendBox_KeyUp"
+                    Margin="15,0,0,0" />
+                <Button
+                    x:Name="Send_Btn"
+                    Content="Send"
+                    HorizontalAlignment="Left"
+                    VerticalAlignment="Top"
+                    Width="80"
+                    Click="sendButton_Click"
+                    Margin="10,0,0,0" />
+            </StackPanel>
+        </StackPanel>
+    </Grid>
+</UserControl>

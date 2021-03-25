@@ -1,0 +1,7 @@
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\DesktopPresenter\DesktopPresenter\bin\Release\DesktopPresenter.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\DesktopPresenter\DesktopPresenter\bin\Release\DesktopPresenter.exe
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\DesktopPresenter\DesktopPresenter\bin\Release\DesktopPresenter.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\DesktopPresenter\DesktopPresenter\obj\Release\DesktopPresenter.Properties.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\DesktopPresenter\DesktopPresenter\obj\Release\DesktopPresenter.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\DesktopPresenter\DesktopPresenter\obj\Release\DesktopPresenter.exe
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\DesktopPresenter\DesktopPresenter\obj\Release\DesktopPresenter.pdb

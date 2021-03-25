@@ -1,0 +1,18 @@
+C:\Users\HassanAbbas\Desktop\wbserver\wbserver\bin\Release\wbserver.exe.config
+C:\Users\HassanAbbas\Desktop\wbserver\wbserver\bin\Release\wbserver.exe
+C:\Users\HassanAbbas\Desktop\wbserver\wbserver\bin\Release\wbserver.pdb
+C:\Users\HassanAbbas\Desktop\wbserver\wbserver\obj\Release\wbserver.csprojResolveAssemblyReference.cache
+C:\Users\HassanAbbas\Desktop\wbserver\wbserver\obj\Release\wbserver.wb.resources
+C:\Users\HassanAbbas\Desktop\wbserver\wbserver\obj\Release\wbserver.Properties.Resources.resources
+C:\Users\HassanAbbas\Desktop\wbserver\wbserver\obj\Release\wbserver.csproj.GenerateResource.Cache
+C:\Users\HassanAbbas\Desktop\wbserver\wbserver\obj\Release\wbserver.exe
+C:\Users\HassanAbbas\Desktop\wbserver\wbserver\obj\Release\wbserver.pdb
+G:\Comsats\8th semester\fyp2\wbserver\wbserver\bin\Release\wbserver.exe.config
+G:\Comsats\8th semester\fyp2\wbserver\wbserver\bin\Release\wbserver.exe
+G:\Comsats\8th semester\fyp2\wbserver\wbserver\obj\Release\wbserver.csprojResolveAssemblyReference.cache
+G:\Comsats\8th semester\fyp2\wbserver\wbserver\obj\Release\wbserver.wb.resources
+G:\Comsats\8th semester\fyp2\wbserver\wbserver\obj\Release\wbserver.Properties.Resources.resources
+G:\Comsats\8th semester\fyp2\wbserver\wbserver\obj\Release\wbserver.csproj.GenerateResource.Cache
+G:\Comsats\8th semester\fyp2\wbserver\wbserver\obj\Release\wbserver.exe
+G:\Comsats\8th semester\fyp2\wbserver\wbserver\obj\Release\wbserver.pdb
+G:\Comsats\8th semester\fyp2\wbserver\wbserver\bin\Release\wbserver.pdb
